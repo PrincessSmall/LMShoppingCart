@@ -4,15 +4,23 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
+		<key>LMShoppingCart 2.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>1</integer>
+		</dict>
 		<key>LMShoppingCart.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>3</integer>
+			<integer>0</integer>
 		</dict>
-		<key>LMShoppingCart.xcscheme_^#shared#^_</key>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>183FD72F21AF751800295599</key>
 		<dict>
-			<key>orderHint</key>
-			<integer>2</integer>
+			<key>primary</key>
+			<true/>
 		</dict>
 	</dict>
 </dict>
